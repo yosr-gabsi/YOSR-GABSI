@@ -1,152 +1,64 @@
-# Hi there 👋, I'm Yosr Gabsi
+<h1 align="center">Hi, I'm Yosr Gabsi 👋</h1>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Mechatronics+Engineering+Student;AI+%26+IoT+Enthusiast;Machine+Learning+%26+Predictive+Maintenance;Future+Industry+4.0+Engineer" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-🎓 Second-year Mechatronics Engineering Student at ENICarthage
-
-🤖 Specializing in Artificial Intelligence, IoT and Industrial Automation
-
-🔬 Passionate about Machine Learning, Robotics and Industry 4.0
-
-📈 Interested in Predictive Maintenance, Data Analytics and Smart Manufacturing
-
-💡 Always eager to learn new technologies and contribute to innovative projects
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,matlab,mysql" />
+<p align="center">
+  Mechatronics Engineering Student · ENICarthage, Tunisia<br>
+  Embedded Systems · Machine Learning · Industry 4.0<br>
+  <b>🔍 Seeking PFE internship abroad · Jan/Feb 2027 · 4–6 months</b>
 </p>
 
-### AI & Data Science
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-* Machine Learning
-* Deep Learning
-* Data Analysis
-* Predictive Maintenance
-* Time Series Analysis
-
-### Tools & Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,arduino" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/yosr-gabsi-ab4584369">LinkedIn</a> ·
+  <a href="mailto:yosr.gabsi@enicar.ucar.tn">Email</a>
 </p>
 
 ---
 
-## 📚 Featured Projects
+## About me
 
-### 🔧 Predictive Maintenance System for Electric Motors
+2nd-year Mechatronics Engineering student specializing in **industrial IT, automation, and AI**.
+My work sits at the intersection of embedded hardware and machine learning — I build systems
+that sense the physical world and make intelligent decisions from the data.
 
-* Vibration signal acquisition and processing
-* Bearing fault diagnosis
-* Machine Learning-based fault classification
-* Real-time monitoring dashboard
-* Industry 4.0 approach
-
-### 🤖 AI & IoT Projects
-
-* Sensor data acquisition
-* Embedded systems programming
-* Smart monitoring applications
-* Industrial automation solutions
+Currently looking for a **final-year internship (PFE)** in France 🇫🇷 · Belgium 🇧🇪 · 
+Switzerland 🇨🇭 · Luxembourg 🇱🇺 starting **January or February 2027**.
 
 ---
 
-## 📊 GitHub Statistics
+## Projects
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yosr-gabsi&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosr-gabsi&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yosr-gabsi&theme=tokyonight&hide_border=true" />
-
-</div>
+| Project | Tech | Description |
+|---------|------|-------------|
+| [Predictive Maintenance – Industrial Bearings](https://github.com/yosr-gabsi/Predictive-Maintenance-Bearings) | Python · Random Forest · Power BI | ML fault detection with physical simulation of bearing failure modes |
+| Embedded Weather Station | C · STM32 · NVIC | IoT sensor node on Nucleo-64 with hierarchical interrupt management |
+| IoT Monitoring System | C++ · ESP32 | Wireless temperature/pressure acquisition to mobile app |
+| Traffic Light Controller | VHDL · FPGA · ModelSim | Architectural design and hardware simulation |
+| Automation – Sand Loading | TIA Portal · Ladder · Factory I/O | Simulated PLC process on virtual robotic station |
 
 ---
 
-## 📈 Contribution Graph
+## Skills
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yosr-gabsi&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yosr-gabsi&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-
-</div>
+**Embedded & IoT:** STM32 · ESP32 · Arduino · PIC16F877A · FPGA · VHDL  
+**AI & ML:** Python · Scikit-learn · Random Forest · Signal processing  
+**Automation:** Siemens TIA Portal (Ladder logic) · Factory I/O  
+**Programming:** Python · C · C++ · MATLAB/Simulink · Assembly  
+**CAD:** SolidWorks (CSWA certified) · Adams · PSIM  
+**Visualization:** Power BI · Matplotlib  
 
 ---
 
-## 🌱 Currently Learning
+## Experience
 
-* Advanced Machine Learning
-* Deep Learning for Industrial Applications
-* MLOps
-* Industrial IoT Systems
-* Cloud Technologies
+**Intern — TALAN Tunisie** *(June – July 2026)*  
+Built a sovereign AI code copilot (VS Code extension) using locally-hosted
+open-source LLMs — zero dependency on proprietary APIs.
 
 ---
 
-## 🎯 2026 Goals
-
-* Contribute to Open Source Projects
-* Publish AI & Industrial Automation Projects
-* Deepen Expertise in Predictive Maintenance
-* Build Real-World Industry 4.0 Solutions
+## Languages
+🇫🇷 French — B2 (DELF certified) &nbsp;|&nbsp; 🇬🇧 English — B2 &nbsp;|&nbsp; 🇸🇦 Arabic — Native
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/yosr-gabsi">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-<div align="center">
-
-### ⭐ "Turning Data into Intelligent Industrial Solutions"
-
-![](https://komarev.com/ghpvc/?username=yosr-gabsi\&color=blueviolet\&style=for-the-badge)
-
-</div>
+## Certifications
+- CSWA — Certified SolidWorks Associate
